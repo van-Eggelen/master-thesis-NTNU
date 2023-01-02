@@ -1,2 +1,2 @@
 # master-thesis-NTNU
-Supplementary material to my master's thesis in biotechnology with specialization in computational biology
+This repository constitutes the Supplementary material of my master's thesis in biotechnology with specialization in computational biology, which was pursued at the Norwegian University of Science and Technology (NTNU) and is titled "Predicting metabolic fluxes from gene expression data using machine learning". It includes the code written to perform all analyzes presented in the thesis, some additional figures, and all machine learning results (the predictions and scores of every machine learning model evaluated). For a structured overview of the available content, see Appendix A in the thesis.
